@@ -1,7 +1,7 @@
 Hi 👋 My name is Carlos Páez
 ============================
 
-Backend Developer
+Fullstack Developer
 -----------------
 
 * 🌍  I'm based in Colombia
