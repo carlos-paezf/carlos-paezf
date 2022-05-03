@@ -93,7 +93,7 @@ Fullstack Developer
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@carlospaezf/633dcd55-bf74-4b64-9573-206ed8ddd502.png" />
+    <img src="https://wakatime.com/share/@carlospaezf/633dcd55-bf74-4b64-9573-206ed8ddd502.png" height="400"/>
   </a>
 </p>
 
