@@ -9,13 +9,18 @@ Fullstack Developer
 * ✉️  You can contact me at [cpaezferreira@gmail.com](mailto:cpaezferreira@gmail.com)
 * 🧠  I'm learning React, Angular, NodeJS, Spring and Django Rest Framework
 
-📊 &nbsp;**This week I spent my time on**
+### Socials
 
-[![carlos-paezf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlospaezf&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/carlos-paezf/github-readme-stats)
+[![Linkedin: Carlos David Páez Ferreira](https://img.shields.io/badge/-Carlos%20David%20Páez%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-david-paez-ferreira/)](https://www.linkedin.com/in/carlos-david-paez-ferreira/)
+[![Twitter Badge](https://img.shields.io/badge/-@CPaez02-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CPaez02)](https://twitter.com/CPaez02)
+[![Instagram Badge](https://img.shields.io/badge/-@carlos__paezf-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/carlos_paezf/)](https://instagram.com/carlos_paezf)
+[![Gmail Badge](https://img.shields.io/badge/-Carlos%20Páez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpaezferreira@gmail.com)](mailto:cpaezferreira@gmail.com)
+[![Github Badge](https://img.shields.io/badge/-@carlos--paezf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/carlos-paezf)](https://github.com/carlos-paezf)
+[![GitHub carlos-paezf](https://img.shields.io/github/followers/carlos-paezf?label=follow&style=social)](https://github.com/carlos-paezf)
   
 ### Skills
 
-<p align="left">
+<p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="Javascript" />
   </a>
@@ -82,26 +87,15 @@ Fullstack Developer
 </p>
 
 
-### Socials
+📊 &nbsp;**This week I spent my time on**
 
-<p align="left"> 
-  <a href="https://www.github.com/carlos-paezf" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.linkedin.com/in/carlos-david-páez-ferreira-60bb51231/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
-  </a> 
-  <a href="https://www.twitter.com/CPaez02" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" />
+<!--[![carlos-paezf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlospaezf&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/carlos-paezf/github-readme-stats)-->
+
+<p align="center">
+  <a href="https://wakatime.com">
+    <img src="https://wakatime.com/share/@carlospaezf/633dcd55-bf74-4b64-9573-206ed8ddd502.png" />
   </a>
 </p>
-
-[![Linkedin: Carlos David Páez Ferreira](https://img.shields.io/badge/-Carlos%20David%20Páez%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-david-páez-ferreira-60bb51231/)](https://www.linkedin.com/in/carlos-david-páez-ferreira-60bb51231/)
-[![Twitter Badge](https://img.shields.io/badge/-@CPaez02-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CPaez02)](https://twitter.com/CPaez02)
-[![Instagram Badge](https://img.shields.io/badge/-@carlos__paezf-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/carlos_paezf/)](https://instagram.com/carlos_paezf)
-[![Gmail Badge](https://img.shields.io/badge/-Carlos%20Páez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpaezferreira@gmail.com)](mailto:cpaezferreira@gmail.com)
-[![Github Badge](https://img.shields.io/badge/-@carlos--paezf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/carlos-paezf)](https://github.com/carlos-paezf)
-[![GitHub carlos-paezf](https://img.shields.io/github/followers/carlos-paezf?label=follow&style=social)](https://github.com/carlos-paezf)
 
 ### Badges
 
