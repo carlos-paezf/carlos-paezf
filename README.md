@@ -93,10 +93,10 @@ Fullstack Developer
 
 <p align="center">
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@carlospaezf/c8e4acb7-aa34-4683-bd9b-7f04529ca424.png" height="350"/>
+    <img src="https://wakatime.com/share/@carlospaezf/c8e4acb7-aa34-4683-bd9b-7f04529ca424.png"/>
   </a>
   <a href="https://wakatime.com">
-    <img src="https://wakatime.com/share/@carlospaezf/633dcd55-bf74-4b64-9573-206ed8ddd502.png" height="350"/>
+    <img src="https://wakatime.com/share/@carlospaezf/633dcd55-bf74-4b64-9573-206ed8ddd502.png"/>
   </a>
 </p>
 
