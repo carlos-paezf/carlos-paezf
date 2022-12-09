@@ -108,7 +108,3 @@ Fullstack Developer
   <a href="http://www.github.com/carlos-paezf"><img src="https://github-readme-stats.vercel.app/api?username=carlos-paezf&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="carlos-paezf's GitHub stats" /></a>
 <a href="http://www.github.com/carlos-paezf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-paezf&stroke=ffffff&background=09131B&ring=ff652f&fire=ff652f&currStreakNum=ffffff&currStreakLabel=ff652f&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
-
-<p align="center">
-<a href="http://www.github.com/carlos-paezf"><img src="https://activity-graph.herokuapp.com/graph?username=carlos-paezf&bg_color=09131B&color=ffffff&line=ff612f&point=ff652f&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-</p>
