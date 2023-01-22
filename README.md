@@ -5,9 +5,9 @@ Fullstack Developer
 -----------------
 
 * 🌍  I'm based in Colombia
-* 🖋️  I study Systems Engineering at the Universidad Santo Tomás, Colombia.
+* 🖋️  I am a Systems Engineer from Santo Tomas University, Colombia.
 * ✉️  You can contact me at [cpaezferreira@gmail.com](mailto:cpaezferreira@gmail.com)
-* 🧠  I'm learning React, Angular, NodeJS, TanStack (React-Query) and Python
+* 🧠  I'm learning Docker, NestJS, React, Angular, NodeJS, TanStack (React-Query) and Python
 
 ### Socials
 
