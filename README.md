@@ -8,6 +8,7 @@ Fullstack Developer
 * 🖋️  I am a Systems Engineer from Santo Tomas University, Colombia.
 * ✉️  You can contact me at [cpaezferreira@gmail.com](mailto:cpaezferreira@gmail.com)
 * 🧠  I'm learning Docker, NestJS, React, Angular, NodeJS, TanStack (React-Query) and Python
+* 📄 This is my CV: [Curriculum Vitae in Spanish](https://drive.google.com/file/d/18nWOZxpzKUuhlhxZ9gbLM7NpTLeczI7Q/view?usp=sharing)
 
 ### Socials
 
