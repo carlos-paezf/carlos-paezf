@@ -13,9 +13,9 @@ Fullstack Developer
 ### Socials
 
 [![Linkedin: Carlos David Páez Ferreira](https://img.shields.io/badge/-Carlos%20David%20Páez%20Ferreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-david-paez-ferreira/)](https://www.linkedin.com/in/carlos-david-paez-ferreira/)
-[![Twitter Badge](https://img.shields.io/badge/-@CPaez02-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CPaez02)](https://twitter.com/CPaez02)
+<!--[![Twitter Badge](https://img.shields.io/badge/-@CPaez02-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/CPaez02)](https://twitter.com/CPaez02)
 [![Instagram Badge](https://img.shields.io/badge/-@carlos__paezf-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/carlos_paezf/)](https://instagram.com/carlos_paezf)
-[![Gmail Badge](https://img.shields.io/badge/-Carlos%20Páez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpaezferreira@gmail.com)](mailto:cpaezferreira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Carlos%20Páez-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:cpaezferreira@gmail.com)](mailto:cpaezferreira@gmail.com)-->
 [![Github Badge](https://img.shields.io/badge/-@carlos--paezf-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/carlos-paezf)](https://github.com/carlos-paezf)
 [![GitHub carlos-paezf](https://img.shields.io/github/followers/carlos-paezf?label=follow&style=social)](https://github.com/carlos-paezf)
   
