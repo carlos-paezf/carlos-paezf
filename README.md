@@ -82,10 +82,11 @@ Fullstack Developer
 </p>
 
 
-📊 &nbsp;**This week I spent my time on**
+<!--📊 &nbsp;**This week I spent my time on**-->
 
 <!--[![carlos-paezf's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlospaezf&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777)](https://github.com/carlos-paezf/github-readme-stats)-->
 
+<!--
 <p align="center">
   <a href="https://wakatime.com">
     <img src="https://wakatime.com/share/@carlospaezf/c8e4acb7-aa34-4683-bd9b-7f04529ca424.png"/>
@@ -103,3 +104,4 @@ Fullstack Developer
   <a href="http://www.github.com/carlos-paezf"><img src="https://github-readme-stats.vercel.app/api?username=carlos-paezf&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="carlos-paezf's GitHub stats" /></a>
 <a href="http://www.github.com/carlos-paezf"><img src="https://github-readme-streak-stats.herokuapp.com/?user=carlos-paezf&stroke=ffffff&background=09131B&ring=ff652f&fire=ff652f&currStreakNum=ffffff&currStreakLabel=ff652f&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 </p>
+-->
